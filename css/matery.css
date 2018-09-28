@@ -22,7 +22,7 @@
 }
 
 body {
-    background-color: #eaeaea;
+    background-color: #FFECF5;
     margin: 0;
     color: #34495e;
 }
@@ -155,7 +155,7 @@ mark {
 }
 
 .bg-color {
-    background-color: #0f9d58 !important;
+    background-color: #FFC1E0 !important;
 }
 
 .text-color {
